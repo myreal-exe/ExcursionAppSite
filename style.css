@@ -1,0 +1,14 @@
+body{
+    background-color: #000000;
+    color: rgb(230, 230, 230);
+    text-align: center;
+}
+
+#slogan{
+    font-family: Verdana;
+    font-size: 50px;
+}
+
+#app-title{
+    font-family: fantasy;
+}
