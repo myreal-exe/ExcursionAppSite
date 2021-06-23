@@ -1,10 +1,23 @@
 body{
     background-color: #000000;
-    color: rgb(230, 230, 230);
     text-align: center;
 }
+
+.download-link{
+    color: aquamarine;
+}
+
+#app-title{
+    font-family: Georgia;
+    color:white;
+    opacity: 0.8;
+}
+
+
 
 #slogan{
     font-family: Verdana;
     font-size: 50px;
+    color:white;
+    opacity: 0.94;
 }
